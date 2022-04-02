@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "Fullname": "prashant",
+      "Email": "P@gmail.com",
+      "Course": "PGDMA",
+      "City": "Patna",
+      "State": "Bihar",
+      "id": 1
+    },
+    {
+      "Fullname": "prince",
+      "Email": "p@gmail.com",
+      "Course": "mba",
+      "City": "patna",
+      "State": "bihar",
+      "id": 2
+    },
+    {
+      "Fullname": "Mayank jaggi",
+      "Email": "m@gmail.com",
+      "Course": "mba",
+      "City": "motihari",
+      "State": "bihar",
+      "id": 3
+    },
+    {
+      "Fullname": "kashyap",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 4
+    },
+    {
+      "Fullname": "rakesh",
+      "Email": "l@gmail.com",
+      "Course": "mba",
+      "City": "patna",
+      "State": "bihar",
+      "id": 6
+    },
+    {
+      "Fullname": "aditya",
+      "Email": "a@gmai.com",
+      "Course": "law",
+      "City": "Indore",
+      "State": "Madhya pradesh",
+      "id": 7
+    }
+  ]
+}

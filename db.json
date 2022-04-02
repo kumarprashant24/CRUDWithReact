@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "Fullname": "prashant",
+      "Email": "P@gmail.com",
+      "Course": "PGDMA",
+      "City": "Patna",
+      "State": "Bihar",
+      "id": 1
+    },
+    {
+      "Fullname": "prince kumar",
+      "Email": "p@gmail.com",
+      "Course": "mba",
+      "City": "patna",
+      "State": "bihar",
+      "id": 2
+    },
+    {
+      "Fullname": "Mayank jaggi",
+      "Email": "m@gmail.com",
+      "Course": "mba",
+      "City": "kanpur",
+      "State": "uttar pradesh",
+      "id": 3
+    },
+    {
+      "Fullname": "kashyap",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 4
+    },
+    {
+      "Fullname": "rakesh",
+      "Email": "l@gmail.com",
+      "Course": "mba",
+      "City": "patna",
+      "State": "bihar",
+      "id": 5
+    },
+    {
+      "Fullname": "ramesh",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 6
+    },
+    {
+      "Fullname": "suresh",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 7
+    },
+    {
+      "Fullname": "kunwar",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 8
+    },
+    {
+      "Fullname": "Aman",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 9
+    },
+    {
+      "Fullname": "Anurag",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 10
+    },
+    {
+      "Fullname": "Monty",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 11
+    },
+    {
+      "Fullname": "Shubham",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 12
+    },
+    {
+      "Fullname": "Abhinash",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 13
+    },
+    {
+      "Fullname": "Ujjwal",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 14
+    },
+    {
+      "Fullname": "Sahil",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 15
+    },
+    {
+      "Fullname": "Varun",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 16
+    },
+    {
+      "Fullname": "Ravi Ranjan",
+      "Email": "kjnkjn@gmail.com",
+      "Course": "mba",
+      "City": "patn",
+      "State": "bihar",
+      "id": 17
+    }
+  ]
+}
